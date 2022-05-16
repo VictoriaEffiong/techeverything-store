@@ -1,0 +1,13 @@
+Please Note the <!-- something goes here comment tag -->
+
+Use them as a guide on what to edit and what not to
+
+Please don't change any code here at all at all
+
+Only the contents should be changed you can add pictures of formatting the way you want
+
+For the product links in the background: url(link to picture) <span> element is for identifying the product you're disposing in the website
+
+Only change those to whatever pictures you put in the products folder
+
+Thank you
