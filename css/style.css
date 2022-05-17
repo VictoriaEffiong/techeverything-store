@@ -261,21 +261,41 @@ one template for the drones the other for a contract form
 }
 
 div .foot{
-display: block;
-line-height: 20px;
-margin-left: 5%;
+display: inline-flex;
+gap: 90px;
+
+}
+div .foot:hover{
+	background-color: #ccc;
+	padding: 10px;
 }
 
 div .foot a{
 	color: aliceblue;
 }
-div .follow{
-	float: right;
-	margin-right: 5%;
+div .foot a:hover{
+	color: black;
 }
-div .follow a{
-	color: aliceblue;
-	line-height: 20px;
+.fff{
+	
+	display: inline-flex;
+	gap: 90px;
+	margin-left: 40%;
+}
+.fff a{
+	color: whitesmoke;
+}
+.fff .f:hover{
+background-color: blue;
+padding: 0px 5px;
+color: whitesmoke;
+border-radius: 5px;
+}
+.fff .t:hover{
+	background-color: rgb(37, 180, 236);
+padding: 0px 5px;
+color: whitesmoke;
+border-radius: 5px;
 }
 
 div.tech img{
